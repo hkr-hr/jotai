@@ -1,0 +1,17 @@
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: test template.
+  - type: textarea
+    attributes:
+      label: test
+      description: This is test
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Reproduction Link
+      description: test test
+    validations:
+      required: true
