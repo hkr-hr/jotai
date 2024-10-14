@@ -6,12 +6,12 @@ body:
   - type: textarea
     attributes:
       label: Bug Description
-      description: Describe the bug you encountered hoge
+      description: hoge
     validations:
       required: true
   - type: input
     attributes:
       label: Reproduction Link
-      description: A link to a [TypeScript Playground](https://www.typescriptlang.org/play), a [StackBlitz Project](https://stackblitz.com/) or something else with a minimal reproduction.
+      description: hoge.
     validations:
       required: true
