@@ -1,6 +1,6 @@
 contact_links:
-  - name: Bug Reports
-    url: https://github.com/pmndrs/jotai/discussions/new?category=bug-report
+  - name: バグレポート
+    url: https://github.com/hkr-hr/jotai/discussions/new?category=bug-report
     about: Please post bug reports here.
   - name: Questions
     url: https://github.com/pmndrs/jotai/discussions/new?category=q-a
