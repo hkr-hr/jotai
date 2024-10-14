@@ -6,7 +6,7 @@ body:
   - type: textarea
     attributes:
       label: Bug Description
-      description: Describe the bug you encountered
+      description: Describe the bug you encountered hoge
     validations:
       required: true
   - type: input
